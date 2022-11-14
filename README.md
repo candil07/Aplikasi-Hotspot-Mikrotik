@@ -1,6 +1,6 @@
 # Aplikasi-Hotspot-Mikrotik
 
-![Aplikasi-Hotspot-Mikrotik]([http://url/to/img.png](https://blogger.googleusercontent.com/img/a/AVvXsEh6huTx1LJQGiOabJO-DIWThgrerySodmsTxo6gobajdhUKABJw7aOeWqqyr26BBNSh-6JjEgX5Cny9qWJ1hLmjcgU3stzSfw1izH3OW0wYgN8QSAV9Z-KunfSJIXA81S8MtIFumi5d4vtKqZlrXtQF2rDiZC9g2i8QMzCl1IuIC77cDwePDXqIYNw)
+![Aplikasi-Hotspot-Mikrotik](https://blogger.googleusercontent.com/img/a/AVvXsEh6huTx1LJQGiOabJO-DIWThgrerySodmsTxo6gobajdhUKABJw7aOeWqqyr26BBNSh-6JjEgX5Cny9qWJ1hLmjcgU3stzSfw1izH3OW0wYgN8QSAV9Z-KunfSJIXA81S8MtIFumi5d4vtKqZlrXtQF2rDiZC9g2i8QMzCl1IuIC77cDwePDXqIYNw)
 
 ➤➤ GABUNG GRUP TELEGRAM KAMI: https://t.me/candilcode
 
